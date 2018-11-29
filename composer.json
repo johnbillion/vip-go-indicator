@@ -1,0 +1,16 @@
+{
+	"name"       : "johnbillion/vip-go-indicator",
+	"description": "Adds an admin toolbar indicator which identifies the current WordPress.com VIP Go environment.",
+	"homepage"   : "https://github.com/johnbillion/vip-go-indicator/",
+	"license"    : "GPL-2.0-or-later",
+	"type"       : "wordpress-muplugin",
+	"authors"    : [
+		{
+			"name"    : "John Blackbourn",
+			"homepage": "https://johnblackbourn.com/"
+		}
+	],
+  "require": {
+      "composer/installers": "~1.0"
+  }
+}
